@@ -58,8 +58,8 @@ Data/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/employee_recognition.git
-cd employee_recognition
+git clone https://github.com/AmenAllahHemdani/Employees-Recognition-System.git
+cd Employees-Recognition-System
 
 # Create virtual environment
 python -m venv venv
