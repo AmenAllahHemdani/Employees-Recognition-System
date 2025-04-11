@@ -1,0 +1,5 @@
+train: /Users/softylines/Desktop/project data/CNN/employees recognition/Data/train/images
+val: /Users/softylines/Desktop/project data/CNN/employees recognition/Data/train/images
+
+nc: 4 
+names: ['Alice', 'Alison', 'Lydia', 'Scott']
