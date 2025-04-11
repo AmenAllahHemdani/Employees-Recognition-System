@@ -2,6 +2,8 @@
 
 This project is designed to recognize employees through their desktop webcam using YOLOv8 and record the time they start and end their work each day. The system captures faces, identifies them, and logs the check-in and check-out times automatically.
 
+![Alt Text](test/image.png)
+
 ## 🚀 Features
 
 - Face detection and recognition using YOLOv8
